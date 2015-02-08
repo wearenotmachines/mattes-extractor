@@ -1,0 +1,6 @@
+{
+	"require" : {
+		"intervention/image" : "~2.0",
+		"league/color-extractor" : "0.1.*"
+	}
+}
